@@ -1,0 +1,41 @@
+# AI Map Generator - Python Requirements
+# Compatible with Python 3.11+
+
+# Core Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Numerical Computing
+numpy>=1.24.0
+
+# Scientific Computing & Image Processing
+scipy>=1.10.0
+pillow>=10.0.0
+
+# Data Analysis & Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=2.0.0
+
+# Game Engine
+pygame>=2.6.0
+
+# Progress Bars for Training
+tqdm>=4.65.0
+
+# Standard Library (included with Python, listed for reference)
+# - tkinter (GUI framework - usually included with Python)
+# - json (data serialization)
+# - os, sys (system operations)
+# - subprocess, shutil (process & file operations)
+# - time, datetime (timing)
+# - typing (type hints)
+# - collections (data structures)
+# - pathlib (path operations)
+# - pickle (object serialization)
+# - heapq (priority queue)
+# - logging (logging framework)
+# - traceback (error handling)
+# - csv (CSV file operations)
+# - enum (enumerations)
+# - math, random (mathematical operations)

@@ -1,0 +1,8 @@
+{
+  "episode": 2198,
+  "score": 61.21665454948737,
+  "total_steps": 25729,
+  "learn_steps": 25729,
+  "timestamp": 1760903213.3092086,
+  "action_mode": "hierarchical"
+}
