@@ -1,4 +1,4 @@
-# AI Map Generator for 2D Games
+# Rigel's Guide for The map Generation
 
 ## What is this?
 
